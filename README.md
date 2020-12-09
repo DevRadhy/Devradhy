@@ -68,3 +68,11 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 **Spotify: Lucas Jantsch Guedes**
 
 [![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna)
+
+**Youtube Music: Lucas Jantsch Guedes**
+
+[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw)
+
+**Youtube Music: Pcraft10**
+
+[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UC7_KqjhvzVTrRoPTQn8t0-A)
