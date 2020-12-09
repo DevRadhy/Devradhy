@@ -75,4 +75,4 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 **Youtube Music: Pcraft10**
 
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UC7_KqjhvzVTrRoPTQn8t0-A)
+[![Twitter](https://img.shields.io/badge/-Pcraft10-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UC7_KqjhvzVTrRoPTQn8t0-A)
