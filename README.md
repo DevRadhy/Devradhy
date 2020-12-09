@@ -47,7 +47,7 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 **Discord: Radhy#6716**
 
-[![Twitter](https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord)](https://twitter.com/Dev_Radhy)
+[![Twitter](https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord)](https://discord.com)
 
 **Codewars: Lucas Jantsch Guedes**
 
@@ -55,11 +55,11 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 **Facebook: Lucas Jantsch Guedes**
 
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook)](https://twitter.com/Dev_Radhy)
+[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook)](https://www.facebook.com/llucas.jguedes)
 
 **Instagram: @Dev.Radhy**
 
-[![Twitter](https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram)](https://twitter.com/Dev_Radhy)
+[![Twitter](https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev.radhy)
 
 **Twitter: @Dev_Radhy**
 
@@ -67,4 +67,4 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 **Spotify: Lucas Jantsch Guedes**
 
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=spotify)](https://twitter.com/Dev_Radhy)
+[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna)
