@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes-53262515a/) 
 [![Twitter](https://img.shields.io/badge/-@DevRadhy-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Dev_Radhy)
 
-## Introduction
+## Introduction 😃
 
 Oi, eu sou Lucas, hoje com foco em desenvolvimento web, sempre busco melhorar e buscar novas tecnologias.
 
@@ -10,16 +10,16 @@ Com foco em backend usando **Noje.js** e **Javascript/Typescript**. :octocat:
 
 Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo. 
 
-## Topics
+## Topics 🎉
 
 * **[Stack](#stack)**
   * **[Backend](#backend)**
   * **[Frontend](#frontend)**
 * **[Social Media](#social-media)**
 
-![anime](https://pa1.narvii.com/6718/ef4131514b661671671a6d2194435daccbe9e796_hq.gif)
+![anime](https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif)
 
-## Stack
+## Stack 👾
 
 Vou apresentar brevemente sobre as tecnologias usadas atualmente, com foco em **Javascript**
 
