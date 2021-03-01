@@ -44,7 +44,9 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 | **Github: DevRadhy** | **Discord: Radhy#6716** | **Codewars: Lucas Jantsch Guedes**|
 |:----------------------:|:----------------------:|:----------------------:|
 | [![GitHub][Github-badge]][Github-link] | [![Discord][Discord-badge]][Discord-link] | [![Codewars][Codewars-badge]][Codewars-link] |
+
 | **Instagram: @Dev.Radhy** | **Twitter: @Dev_Radhy** | **Facebook: Lucas Jantsch Guedes** |
+|:----------------------:|:----------------------:|:----------------------:|
 | [![Instagram][Instagram-badge]][Instagram-link] | [![Twitter][Twitter-badge]][Twitter-link] | [![Facebook][Facebook-badge]][Facebook-link] |
 
 [Github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
