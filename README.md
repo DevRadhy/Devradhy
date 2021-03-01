@@ -41,38 +41,22 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 ## Social Media
 
-**Github: DevRadhy**
+| **Github: DevRadhy** | **Discord: Radhy#6716** | **Codewars: Lucas Jantsch Guedes**|
+|:----------------------:|:----------------------:|:----------------------:|
+| [![GitHub][Github-badge]][Github-link] | [![Discord][Discord-badge]][Discord-link] | [![Codewars][Codewars-badge]][Codewars-link] |
+| **Instagram: @Dev.Radhy** | **Twitter: @Dev_Radhy** | **Facebook: Lucas Jantsch Guedes** |
+| [![Instagram][Instagram-badge]][Instagram-link] | [![Twitter][Twitter-badge]][Twitter-link] | [![Facebook][Facebook-badge]][Facebook-link] |
 
-[![GitHub](https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github)](https://github.com/DevRadhy)
+[Github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
+[Discord-badge]: https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord "Discord"
+[Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
+[Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Instagram"
+[Twitter-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Twitter"
+[Facebook-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook "Facebook"
 
-**Discord: Radhy#6716**
-
-[![Twitter](https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord)](https://discord.com)
-
-**Codewars: Lucas Jantsch Guedes**
-
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=codewars&logoColor=ad2c27)](https://www.codewars.com/users/Lucas%20Jantsch%20Guedes)
-
-**Facebook: Lucas Jantsch Guedes**
-
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook)](https://www.facebook.com/llucas.jguedes)
-
-**Instagram: @Dev.Radhy**
-
-[![Twitter](https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev.radhy)
-
-**Twitter: @Dev_Radhy**
-
-[![Twitter](https://img.shields.io/badge/-@DevRadhy-212e39?style=for-the-badge&logo=twitter)](https://twitter.com/Dev_Radhy)
-
-**Spotify: Lucas Jantsch Guedes**
-
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna)
-
-**Youtube Music: Lucas Jantsch Guedes**
-
-[![Twitter](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw)
-
-**Youtube Music: Pcraft10**
-
-[![Twitter](https://img.shields.io/badge/-Pcraft10-212e39?style=for-the-badge&logo=youtube-music&logoColor=ff0000)](https://music.youtube.com/channel/UC7_KqjhvzVTrRoPTQn8t0-A)
+[Github-link]: https://github.com/DevRadhy
+[Discord-link]: https://discord.com
+[Codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
+[Instagram-link]: https://www.instagram.com/dev.radhy
+[Twitter-link]: https://twitter.com/Dev_Radhy
+[Facebook-link]: https://www.facebook.com/llucas.jguedes
