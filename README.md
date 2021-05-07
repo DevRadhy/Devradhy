@@ -4,11 +4,18 @@
 
 ## Introduction 😃
 
-Oi, eu sou Lucas, hoje com foco em desenvolvimento web, sempre busco melhorar e buscar novas tecnologias.
+👋 Oi, eu sou Lucas, sou estudante e desenvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e buscar novas tecnologias.
 
 Com foco em backend usando **Noje.js** e **Javascript/Typescript**. :octocat:
 
-Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo. 
+Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
+
+![node-dot-js](https://user-images.githubusercontent.com/50425715/117381164-d3c0bb80-aeb1-11eb-9faa-bb7622919a46.png)
+![typescript](https://user-images.githubusercontent.com/50425715/117381166-d4595200-aeb1-11eb-9ebf-6946d40f49ba.png)
+![javascript](https://user-images.githubusercontent.com/50425715/117381162-d3282500-aeb1-11eb-97d4-a0cee9161151.png)
+![express](https://user-images.githubusercontent.com/50425715/117381158-d28f8e80-aeb1-11eb-82c2-5d9e1520cbbe.png)
+![postgresql](https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png)
+![ubuntu](https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png)
 
 ## Topics 🎉
 
