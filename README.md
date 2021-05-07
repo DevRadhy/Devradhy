@@ -20,9 +20,9 @@ Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
 ## Topics 🎉
 
 * **[Stack](#stack-)**
-  * **[Backend](#backend)**
-  * **[Frontend](#frontend)**
-* **[Social Media](#social-media)**
+  * **[Backend](#-backend)**
+  * **[Frontend](#-frontend)**
+* **[Social Media](#%EF%B8%8F-social-media)**
 
 ![anime](https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif)
 
