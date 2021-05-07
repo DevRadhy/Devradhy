@@ -19,7 +19,7 @@ Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
 
 ## Topics 🎉
 
-* **[Stack](#stack)**
+* **[Stack](#stack-)**
   * **[Backend](#backend)**
   * **[Frontend](#frontend)**
 * **[Social Media](#social-media)**
@@ -30,7 +30,7 @@ Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
 
 Vou apresentar brevemente sobre as tecnologias usadas atualmente, com foco em **Javascript**
 
-### Backend
+### 🚀 Backend
 
 Meu foco hoje em backend é **Node.js**, **Javascript** e **Typescript**
 
@@ -38,7 +38,7 @@ Sempre busco novas tecnicas para trazer a melhor experiência com desenvolviment
 
 Mais algumas tecnologias usadas no desenvolvimento são: **Express.js** e **TypeORM**.
 
-### Frontend
+### 🧑‍🚀 Frontend
 
 Para o frontend primeiramente conhecendo as tecnologias vanillas, **HTML**, **CSS** e **Javascript**.
 
@@ -46,7 +46,7 @@ E depois para desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
 
 Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e dependencias do react.
 
-## Social Media
+## 🙆‍♀️ Social Media
 
 | **Github: DevRadhy** | **Discord: Radhy#6716** | **Codewars: Lucas Jantsch Guedes**|
 |:----------------------:|:----------------------:|:----------------------:|
