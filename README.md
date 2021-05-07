@@ -6,7 +6,7 @@
 
 👋 Oi, eu sou Lucas, sou estudante e desenvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e buscar novas tecnologias.
 
-Com foco em backend usando **Noje.js** e **Javascript/Typescript**. :octocat:
+Com foco em backend usando **Node.js** e **Javascript/Typescript**. :octocat:
 
 Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
 
