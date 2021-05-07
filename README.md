@@ -4,7 +4,7 @@
 
 ##  💁‍♀️ Introdução
 
-👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend** 😃, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e me aprofundar nos conhecimentos ☕.
+👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e me aprofundar nos conhecimentos ☕.
 
 Com foco em backend usando **Node.js** e **Javascript/Typescript**. :octocat:
 
