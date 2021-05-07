@@ -2,13 +2,13 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes-53262515a/) 
 [![Twitter][Twitter-badge]](https://twitter.com/Dev_Radhy)
 
-## Introduction 😃
+##  💁‍♀️ Introdução
 
-👋 Oi, eu sou Lucas, sou estudante e desenvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e buscar novas tecnologias.
+👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend** 😃, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e me aprofundar nos conhecimentos ☕.
 
 Com foco em backend usando **Node.js** e **Javascript/Typescript**. :octocat:
 
-Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo.
+Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo 😃.
 
 ![node-dot-js](https://user-images.githubusercontent.com/50425715/117381164-d3c0bb80-aeb1-11eb-9faa-bb7622919a46.png)
 ![typescript](https://user-images.githubusercontent.com/50425715/117381166-d4595200-aeb1-11eb-9ebf-6946d40f49ba.png)
