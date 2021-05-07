@@ -1,6 +1,6 @@
 [![GitHub](https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github)](https://github.com/DevRadhy) 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes-53262515a/) 
-[![Twitter](https://img.shields.io/badge/-@DevRadhy-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Dev_Radhy)
+[![Twitter][Twitter-badge]](https://twitter.com/Dev_Radhy)
 
 ## Introduction 😃
 
@@ -60,7 +60,7 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 [Discord-badge]: https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord "Discord"
 [Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
 [Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Instagram"
-[Twitter-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Twitter"
+[Twitter-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=twitter "Twitter"
 [Facebook-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook "Facebook"
 
 [Github-link]: https://github.com/DevRadhy
