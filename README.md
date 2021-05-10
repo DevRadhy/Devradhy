@@ -1,5 +1,5 @@
 [![GitHub](https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github)](https://github.com/DevRadhy) 
-[![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes-53262515a/) 
+[![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes/) 
 [![Twitter][Twitter-badge]](https://twitter.com/Dev_Radhy)
 
 ##  💁‍♀️ Introdução
