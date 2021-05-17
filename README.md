@@ -46,6 +46,9 @@ E depois para desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
 
 Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e dependencias do react.
 
+![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
+![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&theme=dracula)
+
 ## 🙆‍♀️ Social Media
 
 | **Github: DevRadhy** | **Discord: Radhy#6716** | **Codewars: Lucas Jantsch Guedes**|
