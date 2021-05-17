@@ -63,7 +63,7 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 [Discord-badge]: https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord "Discord"
 [Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
 [Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Instagram"
-[Twitter-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=twitter "Twitter"
+[Twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-212e39?style=for-the-badge&logo=twitter "Twitter"
 [Facebook-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook "Facebook"
 
 [Github-link]: https://github.com/DevRadhy
