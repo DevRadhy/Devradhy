@@ -2,6 +2,10 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes/) 
 [![Twitter][Twitter-badge]](https://twitter.com/Dev_Radhy)
 
+<p align="center" >
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Wellcome" />
+</p>
+
 ##  💁‍♀️ Introdução
 
 👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e me aprofundar nos conhecimentos ☕.
@@ -9,6 +13,13 @@
 Com foco em backend usando **Node.js** e **Javascript/Typescript**. :octocat:
 
 Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo 😃.
+
+---
+
+![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
+![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&theme=dracula)
+
+---
 
 ![node-dot-js](https://user-images.githubusercontent.com/50425715/117381164-d3c0bb80-aeb1-11eb-9faa-bb7622919a46.png)
 ![typescript](https://user-images.githubusercontent.com/50425715/117381166-d4595200-aeb1-11eb-9ebf-6946d40f49ba.png)
@@ -46,29 +57,25 @@ E depois para desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
 
 Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e dependencias do react.
 
-![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
-![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&theme=dracula)
+---
 
 ## 🙆‍♀️ Social Media
 
-| **Github: DevRadhy** | **Discord: Radhy#6716** | **Codewars: Lucas Jantsch Guedes**|
-|:----------------------:|:----------------------:|:----------------------:|
-| [![GitHub][Github-badge]][Github-link] | [![Discord][Discord-badge]][Discord-link] | [![Codewars][Codewars-badge]][Codewars-link] |
+[![GitHub][Github-badge]][Github-link]
+[![Discord][Discord-badge]][Discord-link]
+[![Codewars][Codewars-badge]][Codewars-link]
 
-| **Instagram: @Dev.Radhy** | **Twitter: @Dev_Radhy** | **Facebook: Lucas Jantsch Guedes** |
-|:----------------------:|:----------------------:|:----------------------:|
-| [![Instagram][Instagram-badge]][Instagram-link] | [![Twitter][Twitter-badge]][Twitter-link] | [![Facebook][Facebook-badge]][Facebook-link] |
+[![Instagram][Instagram-badge]][Instagram-link]
+[![Twitter][Twitter-badge]][Twitter-link]
 
 [Github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
-[Discord-badge]: https://img.shields.io/badge/-Radhy%236716-23272a?style=for-the-badge&logo=discord "Discord"
-[Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
-[Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-212e39?style=for-the-badge&logo=instagram "Instagram"
-[Twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-212e39?style=for-the-badge&logo=twitter "Twitter"
-[Facebook-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-212e39?style=for-the-badge&logo=facebook "Facebook"
+[Discord-badge]: https://img.shields.io/badge/-Radhy-grey?style=for-the-badge&logo=discord "Discord"
+[Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-grey?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
+[Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
+[Twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
 
 [Github-link]: https://github.com/DevRadhy
 [Discord-link]: https://discord.com
 [Codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
 [Instagram-link]: https://www.instagram.com/dev.radhy
 [Twitter-link]: https://twitter.com/Dev_Radhy
-[Facebook-link]: https://www.facebook.com/llucas.jguedes
