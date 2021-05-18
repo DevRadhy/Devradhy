@@ -1,6 +1,6 @@
-[![GitHub](https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github)](https://github.com/DevRadhy) 
-[![Linkedin](https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-jantsch-guedes/) 
-[![Twitter][Twitter-badge]](https://twitter.com/Dev_Radhy)
+[![GitHub][github-badge]][github-link]
+[![Linkedin][likedin-badge]][linkedin-link] 
+[![Twitter][Twitter-badge]][twitter-link]
 
 <p align="center" >
  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Wellcome" />
@@ -61,21 +61,33 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 ## 🙆‍♀️ Social Media
 
-[![GitHub][Github-badge]][Github-link]
-[![Discord][Discord-badge]][Discord-link]
-[![Codewars][Codewars-badge]][Codewars-link]
+- **Discord:** [![DevHouse][discord]][devhouse-discord-link]
+- **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
+- **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
+- **Twitter:** [![Dev_Radhy][twitter]][twitter-link]
+- **Codewars:** [![Lucas Jantsch Guedes][codewars]][codewars-link]
 
-[![Instagram][Instagram-badge]][Instagram-link]
-[![Twitter][Twitter-badge]][Twitter-link]
+<!-- Bages -->
+[github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
+[discord-badge]: https://img.shields.io/badge/-Radhy-grey?style=for-the-badge&logo=discord "Discord"
+[likedin-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin "Linkedin"
+[codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-grey?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
+[instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
+[twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
 
-[Github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
-[Discord-badge]: https://img.shields.io/badge/-Radhy-grey?style=for-the-badge&logo=discord "Discord"
-[Codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-grey?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
-[Instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
-[Twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
+<!-- Images -->
+[codewars]: https://user-images.githubusercontent.com/50425715/118725813-d4891400-b806-11eb-9be9-1ee674896f87.png "Codewars"
+[discord]: https://user-images.githubusercontent.com/50425715/118725821-d521aa80-b806-11eb-8208-5b65882fa3f3.png "Discord"
+[instagram]: https://user-images.githubusercontent.com/50425715/118725825-d5ba4100-b806-11eb-9585-f4bfbab917ab.png "Instagram"
+[linkedin]: https://user-images.githubusercontent.com/50425715/118725828-d652d780-b806-11eb-83e8-e7c9616a5fbf.png "Linkedin"
+[twitter]: https://user-images.githubusercontent.com/50425715/118725829-d6eb6e00-b806-11eb-85e5-83d049d68009.png "Twitter"
 
-[Github-link]: https://github.com/DevRadhy
-[Discord-link]: https://discord.com
-[Codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
-[Instagram-link]: https://www.instagram.com/dev.radhy
-[Twitter-link]: https://twitter.com/Dev_Radhy
+<!-- Links -->
+[github-link]: https://github.com/DevRadhy
+[linkedin-link]: https://www.linkedin.com/in/lucas-jantsch-guedes/
+[codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
+[instagram-link]: https://www.instagram.com/dev.radhy
+[twitter-link]: https://twitter.com/Dev_Radhy
+
+<!-- Community -->
+[devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
