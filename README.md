@@ -18,12 +18,14 @@ Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir
 
 ---
 
-![node-dot-js](https://user-images.githubusercontent.com/50425715/117381164-d3c0bb80-aeb1-11eb-9faa-bb7622919a46.png)
-![typescript](https://user-images.githubusercontent.com/50425715/117381166-d4595200-aeb1-11eb-9ebf-6946d40f49ba.png)
-![javascript](https://user-images.githubusercontent.com/50425715/117381162-d3282500-aeb1-11eb-97d4-a0cee9161151.png)
-![express](https://user-images.githubusercontent.com/50425715/117381158-d28f8e80-aeb1-11eb-82c2-5d9e1520cbbe.png)
-![postgresql](https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png)
-![ubuntu](https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png)
+![Node.js][node-dot-js]
+![Typescript][typescript]
+![Javascript][javascript]
+![Express][express]
+![Docker][docker]
+![Jest][jest]
+![PostgreSQL][postgresql]
+![Ubuntu][ubuntu]
 
 ## Tópicos 🎉
 
@@ -72,6 +74,8 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 - **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
 - **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
 - **Twitter:** [![Dev_Radhy][twitter]][twitter-link]
+- **Spotify:** [![Lucas Jantsch Guedes][spotify]][https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna]
+- **Yoube Music:** [![Lucas Jantsch Guedes][youtubemusic]][https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw]
 - **Codewars:** [![Lucas Jantsch Guedes][codewars]][codewars-link]
 
 <!-- Bages -->
@@ -82,12 +86,24 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
 [twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
 
-<!-- Images -->
+<!-- Midia -->
 [codewars]: https://user-images.githubusercontent.com/50425715/118725813-d4891400-b806-11eb-9be9-1ee674896f87.png "Codewars"
 [discord]: https://user-images.githubusercontent.com/50425715/118725821-d521aa80-b806-11eb-8208-5b65882fa3f3.png "Discord"
 [instagram]: https://user-images.githubusercontent.com/50425715/118725825-d5ba4100-b806-11eb-9585-f4bfbab917ab.png "Instagram"
 [linkedin]: https://user-images.githubusercontent.com/50425715/118725828-d652d780-b806-11eb-83e8-e7c9616a5fbf.png "Linkedin"
 [twitter]: https://user-images.githubusercontent.com/50425715/118725829-d6eb6e00-b806-11eb-85e5-83d049d68009.png "Twitter"
+[spotify]: https://user-images.githubusercontent.com/50425715/119236858-ff79ad80-bb0f-11eb-9dbb-7b51e3a74a2e.png "Spotify"
+[youtubemusic]: https://user-images.githubusercontent.com/50425715/119236859-00124400-bb10-11eb-88e5-e57371ce40ef.png "Youbue Music"
+
+<!-- Tools -->
+[docker]: https://user-images.githubusercontent.com/50425715/119236855-fee11700-bb0f-11eb-9d81-803771959948.png "Docker"
+[node-dot-js]: https://user-images.githubusercontent.com/50425715/117381164-d3c0bb80-aeb1-11eb-9faa-bb7622919a46.png "Node.js"
+[typescript]: https://user-images.githubusercontent.com/50425715/117381166-d4595200-aeb1-11eb-9ebf-6946d40f49ba.png "Typescript"
+[javascript]: https://user-images.githubusercontent.com/50425715/117381162-d3282500-aeb1-11eb-97d4-a0cee9161151.png "Javascript"
+[express]: https://user-images.githubusercontent.com/50425715/117381158-d28f8e80-aeb1-11eb-82c2-5d9e1520cbbe.png "Express"
+[postgresql]: https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png "PostgreSQL"
+[jest]: https://user-images.githubusercontent.com/50425715/119237075-677cc380-bb11-11eb-9358-376c6bcd0645.png "Jest"
+[ubuntu]: https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png "Ubuntu"
 
 <!-- Links -->
 [github-link]: https://github.com/DevRadhy
@@ -98,3 +114,4 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 
 <!-- Community -->
 [devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
+[devhouse-github-link]
