@@ -8,18 +8,13 @@
 
 ##  💁‍♀️ Introdução
 
-👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**.
+👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho 18 anos, estou sempre buscando projetos **Open Source** para contribuir, gosto de ajudar e fazer parte de comunidades
 
-Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reune várias pessoas que acontece todo sabádo para falar sobre tecnologia.
+Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reúne várias pessoas que acontece todo sabádo para falar sobre tecnologia.
 
 #### DevHouse:
 
 [![DevHouse][discord]][devhouse-discord-link]
-
----
-
-![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
-![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&theme=dracula)
 
 ---
 
@@ -30,7 +25,7 @@ Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir
 ![postgresql](https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png)
 ![ubuntu](https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png)
 
-## Topics 🎉
+## Tópicos 🎉
 
 * **[Stack](#stack-)**
   * **[Backend](#-backend)**
@@ -39,29 +34,38 @@ Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir
 
 ![anime](https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif)
 
-## Stack 👾
+## Tecnologias 👾
 
-Vou apresentar brevemente sobre as tecnologias usadas atualmente, com foco em **Javascript**
+Vou apresentar as tecnologias usadas atualmente.
 
-### 🚀 Backend
+Não gosto de me prender a ferramentas, e sempre busco a melhor opção que atenda a demanda.
 
-Meu foco hoje em backend é **Node.js**, **Javascript** e **Typescript**
-
-Sempre busco novas tecnicas para trazer a melhor experiência com desenvolvimento, aplicando o **SOLID** e **CLEAN CODE**, e sempre buscando boas praticas nos projetos.
-
-Mais algumas tecnologias usadas no desenvolvimento são: **Express.js** e **TypeORM**.
-
-### 🧑‍🚀 Frontend
-
-Para o frontend primeiramente conhecendo as tecnologias vanillas, **HTML**, **CSS** e **Javascript**.
-
-E depois para desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
-
-Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e dependencias do react.
+Sempre busco novas técnicas para trazer a melhor experiência com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e buscando boas práticas para serem aplicadas nos projetos, o que facilita no desenvolvimento, e deixando o código mais legível para outros desenvolvedores.
 
 ---
 
-## 🙆‍♀️ Social Media
+![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
+![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula)
+
+### 🚀 Backend
+
+Meu foco hoje em Backend é com **Node.js**, **Javascript** e **Typescript**
+
+Algumas outras ferramentas usadas no desenvolvimento de API's são: **Express.js** e **TypeORM**.
+
+### 🧑‍🚀 Frontend
+
+Para o frontend primeiramente conhecendo as ferramentas essenciais, **HTML**, **CSS** e **Javascript**.
+
+E abrangendo para outro frameworks no desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
+
+Outra ferramentas usada para desenvolvimento web é o **Axios** para fazer requisições para o servidor.
+
+---
+
+## 🙆‍♀️ Mídias Sociais
+
+Você pode me encontrar em vários lugares, caso queria, aqui estão alguns links, além do **Discord** da **DevHouse** que você viu acima, na introdução.
 
 - **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
 - **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
