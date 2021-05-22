@@ -41,7 +41,7 @@ Se preferir, você pode navegar por tópicos específicos.
 
 ## Tecnologias 👾
 
-Vou apresentar as tecnologias usadas atualmente.
+Vou apresentar as tecnologias e ferramentas de desenvolvimento que uso atualmente.
 
 Não gosto de me prender a ferramentas, e sempre busco a melhor opção que atenda a demanda.
 
