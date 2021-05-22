@@ -8,11 +8,13 @@
 
 ##  💁‍♀️ Introdução
 
-👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho experiência com desenvolvimento web de 3 anos, e sempre busco melhorar e me aprofundar nos conhecimentos ☕.
+👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**.
 
-Com foco em backend usando **Node.js** e **Javascript/Typescript**. :octocat:
+Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reune várias pessoas que acontece todo sabádo para falar sobre tecnologia.
 
-Você pode ver mais sobre as tecnologias usadas navegando pelos tópicos abaixo 😃.
+#### DevHouse:
+
+[![DevHouse][discord]][devhouse-discord-link]
 
 ---
 
@@ -61,7 +63,6 @@ Mais algumas tecnologias usadas para desenvolvimento web são: **Axios** e depen
 
 ## 🙆‍♀️ Social Media
 
-- **Discord:** [![DevHouse][discord]][devhouse-discord-link]
 - **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
 - **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
 - **Twitter:** [![Dev_Radhy][twitter]][twitter-link]
