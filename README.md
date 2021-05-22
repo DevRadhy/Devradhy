@@ -14,7 +14,8 @@ Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir
 
 #### DevHouse:
 
-[![DevHouse][discord]][devhouse-discord-link]
+[![DevHouse Discord][discord]][devhouse-discord-link]
+[![DevHouse Github][github]][devhouse-github-link]
 
 ---
 
@@ -74,8 +75,8 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 - **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
 - **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
 - **Twitter:** [![Dev_Radhy][twitter]][twitter-link]
-- **Spotify:** [![Lucas Jantsch Guedes][spotify]][https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna]
-- **Yoube Music:** [![Lucas Jantsch Guedes][youtubemusic]][https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw]
+- **Spotify:** [![Lucas Jantsch Guedes][spotify]][spotify-link]
+- **Yoube Music:** [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link]
 - **Codewars:** [![Lucas Jantsch Guedes][codewars]][codewars-link]
 
 <!-- Bages -->
@@ -104,6 +105,7 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [postgresql]: https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png "PostgreSQL"
 [jest]: https://user-images.githubusercontent.com/50425715/119237075-677cc380-bb11-11eb-9358-376c6bcd0645.png "Jest"
 [ubuntu]: https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png "Ubuntu"
+[github]: https://user-images.githubusercontent.com/50425715/119237437-2edde980-bb13-11eb-9ede-000023d3807c.png
 
 <!-- Links -->
 [github-link]: https://github.com/DevRadhy
@@ -111,7 +113,9 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
 [instagram-link]: https://www.instagram.com/dev.radhy
 [twitter-link]: https://twitter.com/Dev_Radhy
+[spotify-link]: https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna
+[yoububemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
 
 <!-- Community -->
 [devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
-[devhouse-github-link]
+[devhouse-github-link]: https://github.com/dev-house-community
