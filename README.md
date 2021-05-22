@@ -32,7 +32,7 @@ Se preferir, você pode navegar por tópicos específicos.
 * **[Stack](#tecnologias-)**
   * **[Backend](#-backend)**
   * **[Frontend](#-frontend)**
-* **[Social Media](#%EF%B8%8F-midias-sociais)**
+* **[Social Media](#%EF%B8%8F-mídias-sociais)**
 
 ![anime](https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif)
 
