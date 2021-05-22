@@ -114,7 +114,7 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [instagram-link]: https://www.instagram.com/dev.radhy
 [twitter-link]: https://twitter.com/Dev_Radhy
 [spotify-link]: https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna
-[yoububemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
+[youtubemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
 
 <!-- Community -->
 [devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
