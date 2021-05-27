@@ -27,6 +27,7 @@ Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir
 ![Jest][jest]
 ![PostgreSQL][postgresql]
 ![Ubuntu][ubuntu]
+![Nginx][nginx]
 
 ## Tópicos 🎉
 
@@ -106,6 +107,7 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [jest]: https://user-images.githubusercontent.com/50425715/119237075-677cc380-bb11-11eb-9358-376c6bcd0645.png "Jest"
 [ubuntu]: https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png "Ubuntu"
 [github]: https://user-images.githubusercontent.com/50425715/119237437-2edde980-bb13-11eb-9ede-000023d3807c.png "Github"
+[nginx]: https://user-images.githubusercontent.com/50425715/119852460-afbb2d80-bee5-11eb-9922-7e399830f833.png "Nginx"
 
 <!-- Links -->
 [github-link]: https://github.com/DevRadhy
