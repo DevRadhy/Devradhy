@@ -3,7 +3,7 @@
 [![Twitter][Twitter-badge]][twitter-link]
 
 <p align="center" >
- <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Wellcome" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Welcome" />
 </p>
 
 ##  💁‍♀️ Introdução
