@@ -74,14 +74,14 @@ Outra ferramentas usada para desenvolvimento web é o **Axios** para fazer requi
 
 ## 🙆‍♀️ Mídias Sociais
 
-Você pode me encontrar em vários lugares, caso queria, aqui estão alguns links, além do **Discord** da **DevHouse** que você viu acima, na introdução.
+Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
 
-- **Linkedin:** [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
-- **Instagram:** [![Dev.Radhy][instagram]][instagram-link]
-- **Twitter:** [![Dev_Radhy][twitter]][twitter-link]
-- **Spotify:** [![Lucas Jantsch Guedes][spotify]][spotify-link]
-- **Yoube Music:** [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link]
-- **Codewars:** [![Lucas Jantsch Guedes][codewars]][codewars-link]
+- [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
+- [![Dev.Radhy][instagram]][instagram-link]
+- [![Dev_Radhy][twitter]][twitter-link]
+- [![Lucas Jantsch Guedes][spotify]][spotify-link]
+- [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link]
+- [![Lucas Jantsch Guedes][codewars]][codewars-link]
 
 <!-- Bages -->
 [github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
