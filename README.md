@@ -3,19 +3,28 @@
 [![Twitter][Twitter-badge]][twitter-link]
 
 <p align="center" >
- <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=8B4CF7&size=40&center=true&vCenter=true&width=800&height=200&lines=Oi+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Lucas;Seja+bem-vindo(a)+%F0%9F%8E%89" alt="Welcome" />
 </p>
 
 ##  💁‍♀️ Introdução
 
 👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho 18 anos, estou sempre buscando projetos **Open Source** para contribuir, gosto de ajudar e fazer parte de comunidades
 
-Faço parte de uma comunidade chamada **DevHouse** que tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reúne várias pessoas que acontece todo sabádo para falar sobre tecnologia.
+Faço parte de Comunidades como:
+
+- **DevHouse** - Tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reúne várias pessoas e que acontece todo sabádo para falar sobre tecnologia.
+
+- **Hub Tech** - Uma comunidade com streamers e criadores de conteúdos, com objetivo de compartilhar conhecimento de formar prática.
 
 #### DevHouse:
 
 [![DevHouse Discord][discord]][devhouse-discord-link]
 [![DevHouse Github][github]][devhouse-github-link]
+
+#### Hub Tech:
+
+[![Hub Discord][discord]][hub-discord-link]
+[![Hub Github][github]][hub-github-link]
 
 ---
 
@@ -118,6 +127,9 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [spotify-link]: https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna
 [youtubemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
 
-<!-- Community -->
+<!-- Communities -->
 [devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
 [devhouse-github-link]: https://github.com/dev-house-community
+
+[hub-discord-link]: https://ahub.tech/discord
+[hub-github-link]: https://github.com/aHub-Tech
