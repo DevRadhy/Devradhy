@@ -13,17 +13,11 @@
 Faço parte de Comunidades como:
 
 - **DevHouse** - Tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reúne várias pessoas e que acontece todo sabádo para falar sobre tecnologia.
-
-- **Hub Tech** - Uma comunidade com streamers e criadores de conteúdos, com objetivo de compartilhar conhecimento de formar prática.
-
-#### DevHouse:
-
-[![DevHouse Discord][discord]][devhouse-discord-link]
+- [![DevHouse Discord][discord]][devhouse-discord-link]
 [![DevHouse Github][github]][devhouse-github-link]
 
-#### Hub Tech:
-
-[![Hub Discord][discord]][hub-discord-link]
+- **Hub Tech** - Uma comunidade com streamers e criadores de conteúdos, com objetivo de compartilhar conhecimento de formar prática.
+- [![Hub Discord][discord]][hub-discord-link]
 [![Hub Github][github]][hub-github-link]
 
 ---
@@ -46,8 +40,8 @@ Se preferir, você pode navegar por tópicos específicos.
   * **[Backend](#-backend)**
   * **[Frontend](#-frontend)**
 * **[Social Media](#%EF%B8%8F-mídias-sociais)**
-
-![anime](https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif)
+    
+<img align="right" src="https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif" alt="Anime" />
 
 ## Tecnologias 👾
 
@@ -59,8 +53,8 @@ Sempre busco novas técnicas para trazer a melhor experiência com o desenvolvim
 
 ---
 
-![card](https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula)
-![card-tech](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula)
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
 
 ### 🚀 Backend
 
