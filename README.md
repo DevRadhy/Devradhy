@@ -52,9 +52,7 @@ Não gosto de me prender a ferramentas, e sempre busco a melhor opção que aten
 Sempre busco novas técnicas para trazer a melhor experiência com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e buscando boas práticas para serem aplicadas nos projetos, o que facilita no desenvolvimento, e deixando o código mais legível para outros desenvolvedores.
 
 ---
-
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" /><img align="right" width="478.68" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
 
 ### 🚀 Backend
 
@@ -76,12 +74,12 @@ Outra ferramentas usada para desenvolvimento web é o **Axios** para fazer requi
 
 Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
 
-- [![Lucas Jantsch Guedes][linkedin]][linkedin-link]
-- [![Dev.Radhy][instagram]][instagram-link]
-- [![Dev_Radhy][twitter]][twitter-link]
-- [![Lucas Jantsch Guedes][spotify]][spotify-link]
-- [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link]
-- [![Lucas Jantsch Guedes][codewars]][codewars-link]
+- [![Lucas Jantsch Guedes][linkedin]][linkedin-link] **Linkedin**
+- [![Dev.Radhy][instagram]][instagram-link] **Instagram**
+- [![Dev_Radhy][twitter]][twitter-link] **Twitter**
+- [![Lucas Jantsch Guedes][spotify]][spotify-link] **Spotify**
+- [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link] **Youtube Music**
+- [![Lucas Jantsch Guedes][codewars]][codewars-link] **Codewars**
 
 <!-- Bages -->
 [github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
