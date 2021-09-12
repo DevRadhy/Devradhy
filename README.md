@@ -3,7 +3,7 @@
 [![Twitter][Twitter-badge]][twitter-link]
 
 <p align="center" >
-  <img width="1200" src="https://user-images.githubusercontent.com/50425715/124797167-5accf700-df28-11eb-96aa-bcf43233bbd4.png" alt="Welcome" />
+  <img width="1200" src="https://user-images.githubusercontent.com/50425715/132974318-ac4c21c7-265a-4438-9cfb-59b59e9e31c9.gif" alt="Welcome" />
 </p>
 
 ##  💁‍♀️ Introdução
