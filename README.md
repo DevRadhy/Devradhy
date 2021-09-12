@@ -52,7 +52,7 @@ Não gosto de me prender a ferramentas, e sempre busco a melhor opção que aten
 Sempre busco novas técnicas para trazer a melhor experiência com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e buscando boas práticas para serem aplicadas nos projetos, o que facilita no desenvolvimento, e deixando o código mais legível para outros desenvolvedores.
 
 ---
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" /><img align="right" width="478.68" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" /><img align="right" width="482" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
 
 ### 🚀 Backend
 
