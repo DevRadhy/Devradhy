@@ -2,19 +2,12 @@
 [![Linkedin][likedin-badge]][linkedin-link] 
 [![Twitter][Twitter-badge]][twitter-link]
 
-<p align="center" >
+<!-- <p align="center" >
   <img width="1200" src="https://user-images.githubusercontent.com/50425715/132974318-ac4c21c7-265a-4438-9cfb-59b59e9e31c9.gif" alt="Welcome" />
-</p>
+</p> -->
 
 ##  💁‍♀️ Introdução
-
-👋 Oi, eu sou Lucas, sou estudante e desenvolvedor **Backend**, tenho 18 anos, estou sempre buscando projetos **Open Source** para contribuir, gosto de ajudar e fazer parte de comunidades
-
-Faço parte de Comunidades como:
-
-- **Hub Tech** - Uma comunidade com streamers e criadores de conteúdos, com objetivo de compartilhar conhecimento de formar prática.
-- [![Hub Discord][discord]][hub-discord-link]
-[![Hub Github][github]][hub-github-link]
+👋 Oi, me chamo Lucas e sou desenvolvedor **Backend**, procuro sempre buscar projetos e comunidades para contribuir ☕.
 
 ---
 
@@ -29,47 +22,26 @@ Faço parte de Comunidades como:
 ![Nginx][nginx]
 
 ## Tópicos 🎉
-
 Se preferir, você pode navegar por tópicos específicos.
 
 * **[Stack](#tecnologias-)**
-  * **[Backend](#-backend)**
-  * **[Frontend](#-frontend)**
 * **[Social Media](#%EF%B8%8F-mídias-sociais)**
     
 <img align="right" src="https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif" alt="Anime" />
 
 ## Tecnologias 👾
+Não gosto de me prender a ferramentas, e sempre busco a melhor ferramenta que possa resolver o problema.
 
-Vou apresentar as tecnologias e ferramentas de desenvolvimento que uso atualmente.
-
-Não gosto de me prender a ferramentas, e sempre busco a melhor opção que atenda a demanda.
-
-Sempre busco novas técnicas para trazer a melhor experiência com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e buscando boas práticas para serem aplicadas nos projetos, o que facilita no desenvolvimento, e deixando o código mais legível para outros desenvolvedores.
+Sempre busco novas técnicas para trazer experiências com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e aplicando boas práticas nos projetos, o que facilita no desenvolvimento, e deixa o código mais legível para outros desenvolvedores.
 
 ---
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
 
-### 🚀 Backend
-
-Meu foco hoje em Backend é com **Node.js**, **Javascript** e **Typescript**
-
-Algumas outras ferramentas usadas no desenvolvimento de API's são: **Express.js** e **TypeORM**.
-
-### 🧑‍🚀 Frontend
-
-Para o frontend primeiramente conhecendo as ferramentas essenciais, **HTML**, **CSS** e **Javascript**.
-
-E abrangendo para outro frameworks no desenvolvimento, **React.js** e **Next.js**, com **Typescript**.
-
-Outra ferramentas usada para desenvolvimento web é o **Axios** para fazer requisições para o servidor.
-
 ---
 
 ## 🙆‍♀️ Mídias Sociais
-
 Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
 
 - [![Lucas Jantsch Guedes][linkedin]][linkedin-link] **Linkedin**
@@ -116,10 +88,3 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão os links da
 [twitter-link]: https://twitter.com/Dev_Radhy
 [spotify-link]: https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna
 [youtubemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
-
-<!-- Communities -->
-[devhouse-discord-link]: https://discord.gg/Nyb46s7Z3V
-[devhouse-github-link]: https://github.com/dev-house-community
-
-[hub-discord-link]: https://ahub.tech/discord
-[hub-github-link]: https://github.com/aHub-Tech
