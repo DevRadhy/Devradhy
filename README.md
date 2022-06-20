@@ -12,10 +12,6 @@
 
 Faço parte de Comunidades como:
 
-- **DevHouse** - Tem o objetivo de evoluir junto com outros dev's, e é também um encontro que reúne várias pessoas e que acontece todo sabádo para falar sobre tecnologia.
-- [![DevHouse Discord][discord]][devhouse-discord-link]
-[![DevHouse Github][github]][devhouse-github-link]
-
 - **Hub Tech** - Uma comunidade com streamers e criadores de conteúdos, com objetivo de compartilhar conhecimento de formar prática.
 - [![Hub Discord][discord]][hub-discord-link]
 [![Hub Github][github]][hub-github-link]
