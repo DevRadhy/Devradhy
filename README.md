@@ -52,12 +52,12 @@ Sempre busco novas técnicas para trazer experiências com o desenvolvimento, ap
 ## 🙆‍♀️ Mídias Sociais
 Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
 
-- [![Lucas Jantsch Guedes][linkedin]][linkedin-link] **Linkedin**
-- [![Dev.Radhy][instagram]][instagram-link] **Instagram**
-- [![Dev_Radhy][twitter]][twitter-link] **Twitter**
-- [![Lucas Jantsch Guedes][spotify]][spotify-link] **Spotify**
-- [![Lucas Jantsch Guedes][youtubemusic]][youtubemusic-link] **Youtube Music**
-- [![Lucas Jantsch Guedes][codewars]][codewars-link] **Codewars**
+- [![Lucas Jantsch Guedes][linkedin] **Linkedin**][linkedin-link]
+- [![Dev.Radhy][instagram] **Instagram**][instagram-link]
+- [![Dev_Radhy][twitter] **Twitter**][twitter-link]
+- [![Lucas Jantsch Guedes][spotify] **Spotify**][spotify-link]
+- [![Lucas Jantsch Guedes][youtubemusic] **Youtube Music**][youtubemusic-link]
+- [![Lucas Jantsch Guedes][codewars] **Codewars**][codewars-link]
 
 <!-- Bages -->
 [github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
