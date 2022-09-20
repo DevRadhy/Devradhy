@@ -9,6 +9,10 @@
 ##  💁‍♀️ Introdução
 👋 Oi, me chamo Lucas e sou desenvolvedor **Backend**, procuro sempre buscar projetos e comunidades para contribuir ☕.
 
+<p>
+  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" />
+</p>
+
 ---
 
 ![Node.js][node-dot-js]
@@ -40,6 +44,10 @@ Sempre busco novas técnicas para trazer experiências com o desenvolvimento, ap
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
 
 ---
+
+<p>
+  <img align="right" width="150" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+</p>
 
 ## 🙆‍♀️ Mídias Sociais
 Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
