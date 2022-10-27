@@ -2,16 +2,12 @@
 [![Linkedin][likedin-badge]][linkedin-link] 
 [![Twitter][Twitter-badge]][twitter-link]
 
-<!-- <p align="center" >
-  <img width="1200" src="https://user-images.githubusercontent.com/50425715/132974318-ac4c21c7-265a-4438-9cfb-59b59e9e31c9.gif" alt="Welcome" />
-</p> -->
+<p align="center" >
+  <img width="1200" src="https://user-images.githubusercontent.com/50425715/198173844-5023de9c-74fc-4000-ad40-086d13d56729.png" alt="Welcome" />
+</p>
 
 ##  💁‍♀️ Introdução
-👋 Oi, me chamo Lucas e sou desenvolvedor **Backend**, procuro sempre buscar projetos e comunidades para contribuir ☕.
-
-<p>
-  <img src="https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif" />
-</p>
+👋 Oi, me chamo Lucas, sou desenvolvedor **Backend** e gosto sempre buscar projetos e comunidades para contribuir ☕.
 
 ---
 
@@ -22,21 +18,14 @@
 ![Docker][docker]
 ![Jest][jest]
 ![PostgreSQL][postgresql]
-![Ubuntu][ubuntu]
 ![Nginx][nginx]
-
-## Tópicos 🎉
-Se preferir, você pode navegar por tópicos específicos.
-
-* **[Stack](#tecnologias-)**
-* **[Social Media](#%EF%B8%8F-mídias-sociais)**
     
 <img align="right" src="https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif" alt="Anime" />
 
 ## Tecnologias 👾
-Não gosto de me prender a ferramentas, e sempre busco a melhor ferramenta que possa resolver o problema.
+Sempre busco encontar ferramentas que possam resolver o problema de forma eficiente.
 
-Sempre busco novas técnicas para trazer experiências com o desenvolvimento, aplicando práticas como **SOLID** e **Clean Code**, e aplicando boas práticas nos projetos, o que facilita no desenvolvimento, e deixa o código mais legível para outros desenvolvedores.
+Busco novas técnicas para desenvolver novos projetos, aplicando práticas como **SOLID** e **Clean Code**, o que facilita no desenvolvimento, e torna o código mais legível.
 
 ---
 
@@ -50,7 +39,7 @@ Sempre busco novas técnicas para trazer experiências com o desenvolvimento, ap
 </p>
 
 ## 🙆‍♀️ Mídias Sociais
-Você pode me encontrar em vários lugares, caso queria, aqui estão os links das minhas redes sociais.
+Você pode me encontrar em vários lugares, caso queria, aqui estão alguns links.
 
 - [![Lucas Jantsch Guedes][linkedin] **Linkedin**][linkedin-link]
 - [![Dev.Radhy][instagram] **Instagram**][instagram-link]
@@ -84,7 +73,6 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão os links da
 [express]: https://user-images.githubusercontent.com/50425715/117381158-d28f8e80-aeb1-11eb-82c2-5d9e1520cbbe.png "Express"
 [postgresql]: https://user-images.githubusercontent.com/50425715/117381165-d3c0bb80-aeb1-11eb-8e93-82676e0b7db6.png "PostgreSQL"
 [jest]: https://user-images.githubusercontent.com/50425715/119237075-677cc380-bb11-11eb-9358-376c6bcd0645.png "Jest"
-[ubuntu]: https://user-images.githubusercontent.com/50425715/117381167-d4f1e880-aeb1-11eb-8acd-a6de32742ee4.png "Ubuntu"
 [github]: https://user-images.githubusercontent.com/50425715/119237437-2edde980-bb13-11eb-9ede-000023d3807c.png "Github"
 [nginx]: https://user-images.githubusercontent.com/50425715/119852460-afbb2d80-bee5-11eb-9922-7e399830f833.png "Nginx"
 
