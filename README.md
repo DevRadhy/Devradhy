@@ -9,8 +9,6 @@
 ##  💁‍♀️ Introdução
 👋 Oi, me chamo Lucas, sou desenvolvedor **Backend** e gosto sempre buscar projetos e comunidades para contribuir ☕.
 
----
-
 ![Node.js][node-dot-js]
 ![Typescript][typescript]
 ![Javascript][javascript]
@@ -19,8 +17,6 @@
 ![Jest][jest]
 ![PostgreSQL][postgresql]
 ![Nginx][nginx]
-    
-<img align="right" src="https://user-images.githubusercontent.com/50425715/109451790-fe634380-7a2c-11eb-90e7-89a95de0687a.gif" alt="Anime" />
 
 ## Tecnologias 👾
 Sempre busco encontar ferramentas que possam resolver o problema de forma eficiente.
@@ -29,24 +25,11 @@ Busco novas técnicas para desenvolver novos projetos, aplicando práticas como 
 
 ---
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
-
----
-
 <p>
-  <img align="right" width="150" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
+  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
 </p>
 
-## 🙆‍♀️ Mídias Sociais
-Você pode me encontrar em vários lugares, caso queria, aqui estão alguns links.
-
-- [![Lucas Jantsch Guedes][linkedin] **Linkedin**][linkedin-link]
-- [![Dev.Radhy][instagram] **Instagram**][instagram-link]
-- [![Dev_Radhy][twitter] **Twitter**][twitter-link]
-- [![Lucas Jantsch Guedes][spotify] **Spotify**][spotify-link]
-- [![Lucas Jantsch Guedes][youtubemusic] **Youtube Music**][youtubemusic-link]
-- [![Lucas Jantsch Guedes][codewars] **Codewars**][codewars-link]
 
 <!-- Bages -->
 [github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
@@ -55,15 +38,6 @@ Você pode me encontrar em vários lugares, caso queria, aqui estão alguns link
 [codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-grey?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
 [instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
 [twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
-
-<!-- Midia -->
-[codewars]: https://user-images.githubusercontent.com/50425715/118725813-d4891400-b806-11eb-9be9-1ee674896f87.png "Codewars"
-[discord]: https://user-images.githubusercontent.com/50425715/118725821-d521aa80-b806-11eb-8208-5b65882fa3f3.png "Discord"
-[instagram]: https://user-images.githubusercontent.com/50425715/118725825-d5ba4100-b806-11eb-9585-f4bfbab917ab.png "Instagram"
-[linkedin]: https://user-images.githubusercontent.com/50425715/118725828-d652d780-b806-11eb-83e8-e7c9616a5fbf.png "Linkedin"
-[twitter]: https://user-images.githubusercontent.com/50425715/118725829-d6eb6e00-b806-11eb-85e5-83d049d68009.png "Twitter"
-[spotify]: https://user-images.githubusercontent.com/50425715/119236858-ff79ad80-bb0f-11eb-9dbb-7b51e3a74a2e.png "Spotify"
-[youtubemusic]: https://user-images.githubusercontent.com/50425715/119236859-00124400-bb10-11eb-88e5-e57371ce40ef.png "Youbue Music"
 
 <!-- Tools -->
 [docker]: https://user-images.githubusercontent.com/50425715/119236855-fee11700-bb0f-11eb-9d81-803771959948.png "Docker"
