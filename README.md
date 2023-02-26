@@ -18,10 +18,10 @@ Procuro sempre novas técnicas de desenvolvimento para novos projetos, alinhado 
 
 ---
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
-</p>
+<div align="center" width="200">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
+</div>
 
 
 <!-- Bages -->
