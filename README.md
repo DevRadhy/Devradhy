@@ -1,13 +1,9 @@
-[![GitHub][github-badge]][github-link]
 [![Linkedin][likedin-badge]][linkedin-link] 
-[![Twitter][Twitter-badge]][twitter-link]
+[![Twitter][twitter-badge]][twitter-link]
+[![Twitter][instagram-badge]][instagram-link]
 
-<p align="center" >
-  <img width="1200" src="https://user-images.githubusercontent.com/50425715/198173844-5023de9c-74fc-4000-ad40-086d13d56729.png" alt="Welcome" />
-</p>
-
-##  💁‍♀️ Introdução
-👋 Oi, me chamo Lucas, sou desenvolvedor **Backend** e gosto sempre buscar projetos e comunidades para contribuir ☕.
+👋 Oi, me chamo Lucas, sou desenvolvedor **Backend** e gosto de contrubuir para projetos e comunidades ☕.<br>
+🌱 Sempre procuro por ferramentas que possam resolver problemas de forma eficiente.
 
 ![Node.js][node-dot-js]
 ![Typescript][typescript]
@@ -18,26 +14,21 @@
 ![PostgreSQL][postgresql]
 ![Nginx][nginx]
 
-## Tecnologias 👾
-Sempre busco encontar ferramentas que possam resolver o problema de forma eficiente.
-
-Busco novas técnicas para desenvolver novos projetos, aplicando práticas como **SOLID** e **Clean Code**, o que facilita no desenvolvimento, e torna o código mais legível.
+Procuro sempre novas técnicas de desenvolvimento para novos projetos, alinhado com boas práticas, o que facilita no desenvolvimento e torna o código mais legível.
 
 ---
 
-<p>
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=DevRadhy&show_icons=true&theme=dracula" alt="Card" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=dracula" alt="Tecnologias" />
 </p>
 
 
 <!-- Bages -->
-[github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github "Github"
-[discord-badge]: https://img.shields.io/badge/-Radhy-grey?style=for-the-badge&logo=discord "Discord"
-[likedin-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin "Linkedin"
-[codewars-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-grey?style=for-the-badge&logo=codewars&logoColor=ad2c27 "Codewars"
-[instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram "Instagram"
-[twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter "Twitter"
+[github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github&color=7242f5 "Github"
+[likedin-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin&color=7242f5 "Linkedin"
+[instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram&logoColor=ffffff&color=7242f5 "Instagram"
+[twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter&logoColor=ffffff&color=7242f5 "Twitter"
 
 <!-- Tools -->
 [docker]: https://user-images.githubusercontent.com/50425715/119236855-fee11700-bb0f-11eb-9d81-803771959948.png "Docker"
@@ -53,8 +44,7 @@ Busco novas técnicas para desenvolver novos projetos, aplicando práticas como 
 <!-- Links -->
 [github-link]: https://github.com/DevRadhy
 [linkedin-link]: https://www.linkedin.com/in/lucas-jantsch-guedes/
-[codewars-link]: https://www.codewars.com/users/Lucas%20Jantsch%20Guedes
-[instagram-link]: https://www.instagram.com/dev.radhy
+[instagram-link]: https://www.instagram.com/lucasjguedes_
 [twitter-link]: https://twitter.com/Dev_Radhy
 [spotify-link]: https://open.spotify.com/user/31i6gzydhylswa4pszmgiml2mvna
 [youtubemusic-link]: https://music.youtube.com/channel/UCkgWGGoaukJyfu_zu57hcgw
