@@ -1,10 +1,14 @@
 [![Linkedin][likedin-badge]][linkedin-link] 
-[![Twitter][twitter-badge]][twitter-link]
-[![Twitter][instagram-badge]][instagram-link]
+[![Instagram][instagram-badge]][instagram-link]
+[![Spotify][spotify-badge]][spotify-link]
 
-👋 Oi, me chamo Lucas, sou desenvolvedor **Backend** e gosto de contrubuir para projetos e comunidades ☕.<br>
-🌱 Sempre procuro por ferramentas que possam resolver problemas de forma eficiente.
+👋 Oi, eu sou o Lucas, sou desenvolvedor **Backend** especializado em criar e manter a estrutura lógica e operacional de sistemas web. Contruindo soluções robustas, escaláveis e eficientes que garantem o funcionamento fluido de aplicações.
 
+Adoro colaborar com outros desenvolvedores e compartilhar conhecimento, acreditando que a troca de experiências é fundamental para o crescimento profissional e pessoal. Além disso, estou sempre aprendendo e me atualizando para acompanhar as últimas tendências e melhores práticas da indústria. Vamos conectar e construir algo incrível juntos!
+
+🌱 Estou sempre em busca de ferramentas e soluções eficientes para resolver problemas complexos.
+
+<!--
 ![Node.js][node-dot-js]
 ![Typescript][typescript]
 ![Javascript][javascript]
@@ -13,8 +17,7 @@
 ![Jest][jest]
 ![PostgreSQL][postgresql]
 ![Nginx][nginx]
-
-Procuro sempre novas técnicas de desenvolvimento para novos projetos, alinhado com boas práticas, o que facilita no desenvolvimento e torna o código mais legível.
+-->
 
 ---
 
@@ -25,10 +28,11 @@ Procuro sempre novas técnicas de desenvolvimento para novos projetos, alinhado 
 
 
 <!-- Bages -->
-[github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github&color=7242f5 "Github"
-[likedin-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin&color=7242f5 "Linkedin"
-[instagram-badge]: https://img.shields.io/badge/-@Dev.Radhy-grey?style=for-the-badge&logo=instagram&logoColor=ffffff&color=7242f5 "Instagram"
-[twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter&logoColor=ffffff&color=7242f5 "Twitter"
+[github-badge]: https://img.shields.io/badge/-DevRadhy-grey?style=for-the-badge&logo=github&color=1DB954 "Github"
+[likedin-badge]: https://img.shields.io/badge/-Lucas%20Jantsch%20Guedes-blue?style=for-the-badge&logo=linkedin&color=1DB954 "Linkedin"
+[instagram-badge]: https://img.shields.io/badge/-@lucasjguedes__-grey?style=for-the-badge&logo=instagram&logoColor=ffffff&color=1DB954 "Instagram"
+[twitter-badge]: https://img.shields.io/badge/-@Dev__Radhy-grey?style=for-the-badge&logo=twitter&logoColor=ffffff&color=1DB954 "Twitter"
+[spotify-badge]: https://img.shields.io/badge/-Lucas%20Guedes-grey?style=for-the-badge&logo=spotify&logoColor=ffffff&color=1DB954 "Spotify"
 
 <!-- Tools -->
 [docker]: https://user-images.githubusercontent.com/50425715/119236855-fee11700-bb0f-11eb-9d81-803771959948.png "Docker"
