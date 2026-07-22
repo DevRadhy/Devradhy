@@ -6,15 +6,11 @@
 
 Gosto de compartilhar conhecimento com outras pessoas. Acredito que a troca de experiências é fundamental para o crescimento profissional e pessoal.
 
-Além disso, estou sempre em uma busca incansável por conhecimento. Se você pensa assim (ou não ksks 😅) vamos nos conectar!
+Além disso, estou sempre em uma busca incansável por conhecimento. Se você pensa assim (ou não haha 😅) vamos nos conectar!
 
-🌱 Em busca hype para resolver problemas cotidianos 🤣.
+🌱 Em busca do hype para resolver problemas cotidianos 🤣.
 
 ---
-
-<div align="center">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRadhy&layout=compact&theme=transparent" alt="Tecnologias" />
-</div>
 
 
 <!-- Bages -->
